@@ -12,7 +12,7 @@ Examples of the data:
 
 <img width="353" alt="Screenshot 2025-05-10 at 10 34 46 AM" src="https://github.com/user-attachments/assets/6cd50fca-c07a-4837-9e0b-a559ca1b2e64" />
 
-Diagram from https://arxiv.org/abs/1911.09296
+Diagram from Rui et al.
 
 ## Files
 
