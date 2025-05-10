@@ -27,7 +27,7 @@ GAN MODELS
     -->  Image_Generator.ipynb
 -  BuildingGAN.ipynb
     -->  Image_Generator.ipynb
-    --> BuildingGAN_Image_Generator.ipynb 
+    --> BuildingGAN_Image_Generator.ipynb (able to generate more than one image at a time)
 
 CLASSIFICATION
 - ResNet50-Prototype.ipynb
