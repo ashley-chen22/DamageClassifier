@@ -5,7 +5,7 @@ Our proposed BuildingGAN works to enhance classification of disaster type and le
 
 By doing this we hope to address class imbalances as disaster type is dominated by 'fire' instances with very few 'volcano' and damage level is  dominated by 'no damage' and very few 'damaged.'  
 
-# DATA
+## Data
 Dataset used: xBD via xView2 challenge https://xview2.org/dataset
 
 Examples of the data: 
