@@ -25,7 +25,8 @@ GAN MODELS
 -  VanillaGAN.ipynb
 -  DisasterGAN.ipynb
 -  BuildingGAN.ipynb
-    -->  Image_Generator.ipynb --> BuildingGAN_Image_Generator.ipynb (Separate image generation notebook for BuildingGAN)
+    -->  Image_Generator.ipynb
+    --> BuildingGAN_Image_Generator.ipynb (Separate image generation notebook for BuildingGAN)
 
 CLASSIFICATION
 - ResNet50-Prototype.ipynb
