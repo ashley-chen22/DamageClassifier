@@ -30,9 +30,11 @@ GAN MODELS
     --> BuildingGAN_Image_Generator.ipynb (able to generate more than one image at a time)
 
 CLASSIFICATION
-- ResNet50-Prototype.ipynb
-- Resnet18_PostClassifier.ipynb
+- Resnet18_Damage.ipynb
+- Resnet50_PostClassifier.ipynb
+- Resnet50_PostClassifierGAN.ipynb
 
+  
 ## Results
 Sample output from VanillaGAN:
 
