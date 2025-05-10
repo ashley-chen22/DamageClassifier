@@ -24,6 +24,7 @@ EDA + PREPROCESSING
 GAN MODELS
 -  VanillaGAN.ipynb
 -  DisasterGAN.ipynb
+    -->  Image_Generator.ipynb
 -  BuildingGAN.ipynb
     -->  Image_Generator.ipynb
     --> BuildingGAN_Image_Generator.ipynb (Separate image generation notebook for BuildingGAN)
